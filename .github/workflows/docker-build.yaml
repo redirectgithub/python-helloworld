@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64
           push: true
-          tags: redirectgithub/python-helloworld:latest
+          tags: redirects/python-helloworld:latest
